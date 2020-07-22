@@ -50,7 +50,7 @@
 
 	<!-- indicamos los paquetes del repositorio -->
 
-	<jpa:repositories base-package="com.involucionados.modelo.entidades" />
+	<jpa:repositories base-package="com.involucionados.modelo.repositorios" />
 
 <!-- ******************************************************************************************************************* -->
 

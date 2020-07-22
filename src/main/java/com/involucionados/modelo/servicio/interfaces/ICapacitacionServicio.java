@@ -1,4 +1,4 @@
-package com.involucionados.modelo.servicio.implementaciones;
+package com.involucionados.modelo.servicio.interfaces;
 
 import java.util.List;
 

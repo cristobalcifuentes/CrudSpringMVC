@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.involucionados.modelo.entidades.Capacitacion;
-import com.involucionados.modelo.servicio.implementaciones.ICapacitacionServicio;
+import com.involucionados.modelo.servicio.interfaces.ICapacitacionServicio;
 
 @Controller
 public class CapacitacionControlador {
